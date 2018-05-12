@@ -1,0 +1,28 @@
+_repo: Washington-Irving_25908
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boynton, Henry Walcott
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '26167'
+    url: http://www.gutenberg.org/2009/agents/26167
+description: ''
+gutenberg_issued: '2008-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Riverside Biographical Series, number 11
+subjects:
+- !lcsh 'Irving, Washington, 1783-1859'
+- !lcc 'PS'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+title: Washington Irving
+url: http://www.gutenberg.org/ebooks/25908
